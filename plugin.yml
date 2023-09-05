@@ -1,5 +1,7 @@
 name: End
 main: NurAzli\End\End
-version: 1.0.0
 api: 5.0.0
+version: 1.0.0
 author: NurAzli
+description: so that there is a world of the end on your server
+depends: MultiWorld
